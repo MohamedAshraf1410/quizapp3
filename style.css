@@ -1,0 +1,24 @@
+
+*{color: #2e3001d7 !important;}
+.btn:hover{background-color: rgb(33, 38, 5) !important;
+color: white !important;
+}
+.parent{height: 100vh;
+background-image: url(./pexels-pixabay-235985.jpg);
+background-position: center center;
+background-size: 100% 100%;
+}
+.parent h1{font-weight: 900;
+font-size: 80px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: black
+}
+button{
+font-weight: 800 !important;
+background-color: 2e3001d7;
+}
+
+.quote{
+font-size: 35px !important;
+font-weight: 400 !important;
+}
